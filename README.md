@@ -8,8 +8,7 @@
 
 ## 📖 About the Project
 
-This project is a **front-end practice application** that simulates the complete food ordering process, from browsing a menu to tracking an order.  
-The main goal is to strengthen front-end development skills in a realistic project by focusing on building reusable components, state management, and responsive design.
+This is a feature-rich simulation of a pizza ordering platform. The core challenge involved building dynamic component interactions and managing complex state (like cart operations, menu customization, and order tracking) to create a smooth, app-like user experience with a responsive design.
 
 ---
 
@@ -66,7 +65,7 @@ fast-react-pizza/
 1. **Clone the repository (if public)**
 
 ```bash
-git clone <your-project-repository-url>
+git clone <"https://github.com/new-developer-2025/React-Pizza-Hub">
 cd fast-react-pizza
 ```
 
