@@ -66,7 +66,7 @@ fast-react-pizza/
 
 ```bash
 git clone <"https://github.com/new-developer-2025/React-Pizza-Hub">
-cd fast-react-pizza
+cd React-Pizza-Hub
 ```
 
 2. **Install dependencies**
